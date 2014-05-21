@@ -1,0 +1,9 @@
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\bin\Debug\MouseReader2.exe.config
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\bin\Debug\MouseReader2.exe
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\bin\Debug\MouseReader2.pdb
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\obj\Debug\MouseReader2.csprojResolveAssemblyReference.cache
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\obj\Debug\MouseReader2.Form1.resources
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\obj\Debug\MouseReader2.Properties.Resources.resources
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\obj\Debug\MouseReader2.csproj.GenerateResource.Cache
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\obj\Debug\MouseReader2.exe
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader2\MouseReader2\obj\Debug\MouseReader2.pdb

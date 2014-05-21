@@ -1,0 +1,1 @@
+c:\users\boshi\documents\visual studio 2012\Projects\MouseReader\MouseReader\bin\Debug\MouseReader.exe.config

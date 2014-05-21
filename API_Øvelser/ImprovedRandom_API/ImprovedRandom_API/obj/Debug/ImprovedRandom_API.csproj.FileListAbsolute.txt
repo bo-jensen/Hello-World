@@ -1,0 +1,6 @@
+C:\Users\Boshi\Desktop\API_Øvelser\ImprovedRandom_API\ImprovedRandom_API\bin\Debug\ImprovedRandom_API.exe.config
+C:\Users\Boshi\Desktop\API_Øvelser\ImprovedRandom_API\ImprovedRandom_API\bin\Debug\ImprovedRandom_API.exe
+C:\Users\Boshi\Desktop\API_Øvelser\ImprovedRandom_API\ImprovedRandom_API\bin\Debug\ImprovedRandom_API.pdb
+C:\Users\Boshi\Desktop\API_Øvelser\ImprovedRandom_API\ImprovedRandom_API\obj\Debug\ImprovedRandom_API.csprojResolveAssemblyReference.cache
+C:\Users\Boshi\Desktop\API_Øvelser\ImprovedRandom_API\ImprovedRandom_API\obj\Debug\ImprovedRandom_API.exe
+C:\Users\Boshi\Desktop\API_Øvelser\ImprovedRandom_API\ImprovedRandom_API\obj\Debug\ImprovedRandom_API.pdb

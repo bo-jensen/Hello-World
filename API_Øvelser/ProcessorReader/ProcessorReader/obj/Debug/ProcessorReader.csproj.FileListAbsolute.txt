@@ -1,0 +1,6 @@
+C:\Users\Boshi\Desktop\API_Øvelser\ProcessorReader\ProcessorReader\bin\Debug\ProcessorReader.exe.config
+C:\Users\Boshi\Desktop\API_Øvelser\ProcessorReader\ProcessorReader\bin\Debug\ProcessorReader.exe
+C:\Users\Boshi\Desktop\API_Øvelser\ProcessorReader\ProcessorReader\bin\Debug\ProcessorReader.pdb
+C:\Users\Boshi\Desktop\API_Øvelser\ProcessorReader\ProcessorReader\obj\Debug\ProcessorReader.csprojResolveAssemblyReference.cache
+C:\Users\Boshi\Desktop\API_Øvelser\ProcessorReader\ProcessorReader\obj\Debug\ProcessorReader.exe
+C:\Users\Boshi\Desktop\API_Øvelser\ProcessorReader\ProcessorReader\obj\Debug\ProcessorReader.pdb
